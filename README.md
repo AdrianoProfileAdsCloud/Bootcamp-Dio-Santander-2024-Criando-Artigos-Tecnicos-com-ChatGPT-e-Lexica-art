@@ -38,10 +38,36 @@ Desafio de Projeto tem por objetivo demonstrar os conhecimentos adquirodos nas a
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|   Ação   | prompt                                                                                                                                                                                                                                                                                               |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                       |
+|  Título  | Crie 10 headlines para nomes de artigos sobre Clean Code - Princípios                                                                                                                                                                                                                                |
+| Conteúdo | Comporte-se como um escritor de artigos tecnico de java e escreva o Artigo de acordo com as regras abaixo  | 
+|          | > No máximo 5 linhas por bloco de explicação                                                               |
+|  Regra   | > Explique de de maneira informal, como se estivesse lendo sobre esse assunto pela primeira vez.
+|          | > Os blocos deverão ser criados estão abaixo:
+|          |     -Introdução ao Clean Code
+|          |     - Nomes Significativos
+|          |     - Funções Pequenas
+|          | - De um exemplo de Funções Pequenas
+|          |    - Evite Comentários Desnecessários
+|          |        - De um exemplo de como evitar Comentários Desnecessários
+|          | - Utilize Constantes
+|          |    - De um exemplo de como ultilizar Constantes
+|          | - Evite Redundâncias
+|          |    - De um exemplo de como evitar Redundâncias
+|  Blocos  | - Mantenha Código Simples
+|          |    - De um exemplo de como nater o Código Simples
+|          | - Organize o Código
+|          |    - De um exemplo de como Organizar o Código
+|          | - Trate Erros de Forma Adequada
+|          |    - De um exemplo de como tratar os erros de Forma Adequada
+|          | - Comente Apenas o Necessário
+|          |   - De um exemplo de como fazer apenas Comentários Necessários
+|          | - Refatore Regularmente
+|          |    - De um exemplo de Refatoração
+|          | - Faça um call to ation para minhas redes sociais
+|          | - Coloque 3 hashtags que façam sentido
+
 
 
 Lexica.art：
