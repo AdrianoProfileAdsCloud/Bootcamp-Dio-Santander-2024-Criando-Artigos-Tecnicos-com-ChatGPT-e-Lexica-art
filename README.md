@@ -1,9 +1,8 @@
 # Bootcamp Dio - Santander 2024 - Fundamentos de IA para Devs - Artigos Tecnicos com ChatGPT e Lexica-Art.
-Projeto com o objetivo de gerar um artigo técnico com um layout e leitura amigavél com foco em promover autoridade técnica sobre o assunto abordado.
+Desafio de Projeto tem por objetivo demonstrar os conhecimentos adquirodos nas aulas.Para tal será criado um artigo técnico com layout e leitura amigavél com foco em promover autoridade técnica sobre Clean Code.
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="800" src="https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Santander-2024-Criando-Artigos-Tecnicos-com-ChatGPT-e-Lexica-art/blob/main/imagens/Capa%20-%20Artigo.png">
 </p>
-
 
 <p align="center">
   <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
@@ -24,7 +23,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout e leitura amiga
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Trata-se de um conteúdo gerado por inteligência artificial(ChatGPT), porém todo conteúdo foi revisado e alguns blocos reeditados de acordo com os meus conhecimento sobre o assunto.A idéia principal desse bootcamp o qual esse desafio de projeto faz parte e fazer com usemos a IA como auxiliadora na produtividade e até mesmo no processo de criação mais de forma alguma usar somente ela como "autora" automática.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
