@@ -1,5 +1,5 @@
 # Bootcamp Dio - Santander 2024 - Fundamentos de IA para Devs - Artigos Tecnicos com ChatGPT e Lexica-Art.
-Desafio de Projeto tem por objetivo demonstrar os conhecimentos adquirodos nas aulas.Para tal será criado um artigo técnico com layout e leitura amigavél com foco em promover autoridade técnica sobre Clean Code.
+Desafio de Projeto tem por objetivo demonstrar os conhecimentos adquiridos nas aulas. Para tal será criado um artigo técnico com layout e leitura amigável com foco em promover autoridade técnica sobre Clean Code.
 <p align="center">
     <img width="800" src="https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Santander-2024-Criando-Artigos-Tecnicos-com-ChatGPT-e-Lexica-art/blob/main/imagens/Capa%20-%20Artigo.png">
 </p>
@@ -7,8 +7,7 @@ Desafio de Projeto tem por objetivo demonstrar os conhecimentos adquirodos nas a
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Trata-se de um conteúdo gerado por inteligência artificial(ChatGPT), porém todo conteúdo foi revisado e os blocos reeditados de acordo com os meus conhecimento sobre o assunto.A idéia principal desse bootcamp o qual esse desafio de projeto faz parte e fazer com usemos a IA como auxiliadora na produtividade e até mesmo no processo de criação mais de forma alguma usar somente ela como "autora" automática.
-
+ > ℹ️ **NOTE:** Trata-se de um conteúdo gerado por inteligência artificial(ChatGPT), porém todo conteúdo foi revisado e os blocos reeditados conforme os meus conhecimentos sobre o assunto. A ideia principal desse bootcamp o qual esse desafio de projeto faz parte e fazer com usemos a IA como auxiliadora na produtividade e até mesmo no processo de criação, mas de forma alguma usar somente ela como "autora" automática.
 <a href="https://www.dio.me/articles/clean-code-na-pratica-exemplos-e-aplicacoes-reais" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
