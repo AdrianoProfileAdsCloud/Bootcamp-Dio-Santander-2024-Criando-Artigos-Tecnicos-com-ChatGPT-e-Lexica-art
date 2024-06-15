@@ -25,7 +25,7 @@ Desafio de Projeto tem por objetivo demonstrar os conhecimentos adquirodos nas a
 
  > ℹ️ **NOTE:** Trata-se de um conteúdo gerado por inteligência artificial(ChatGPT), porém todo conteúdo foi revisado e os blocos reeditados de acordo com os meus conhecimento sobre o assunto.A idéia principal desse bootcamp o qual esse desafio de projeto faz parte e fazer com usemos a IA como auxiliadora na produtividade e até mesmo no processo de criação mais de forma alguma usar somente ela como "autora" automática.
 
-<a href="https://web.dio.me/articles/clean-code-na-pratica-exemplos-e-aplicacoes-reais?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://www.dio.me/articles/clean-code-na-pratica-exemplos-e-aplicacoes-reais" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
